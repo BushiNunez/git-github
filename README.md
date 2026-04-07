@@ -90,8 +90,3 @@ Aquí es donde están todos los archivos de esta carpeta y donde la clase comenz
 Puedes verla [aquí](/Paquete/).
 
 
-
-
-Andre paso por aqui
-
-Andre ya habia pasado por aqui
